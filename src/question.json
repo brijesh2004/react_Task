@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the correct syntax to declare a variable in JavaScript?",
+        "options": ["var variableName;", "variable variableName;", "v variableName;", "declare variableName;"],
+        "answer": "var variableName;"
+      },
+      {
+        "question": "How do you create a function in JavaScript?",
+        "options": ["function:myFunction()", "function myFunction()", "function = myFunction()", "myFunction function()"],
+        "answer": "function myFunction()"
+      },
+      {
+        "question": "Which of the following is not a reserved word in JavaScript?",
+        "options": ["interface", "throws", "program", "short"],
+        "answer": "program"
+      },
+      {
+        "question": "How do you add a comment in JavaScript?",
+        "options": ["// This is a comment", "<!-- This is a comment -->", "'This is a comment'", "# This is a comment"],
+        "answer": "// This is a comment"
+      },
+      {
+        "question": "What is the correct way to write a JavaScript array?",
+        "options": ["var colors = (1:'red', 2:'green', 3:'blue')", "var colors = ['red', 'green', 'blue']", "var colors = 'red', 'green', 'blue'", "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"],
+        "answer": "var colors = ['red', 'green', 'blue']"
+      },
+      {
+        "question": "How do you round the number 7.25 to the nearest integer?",
+        "options": ["Math.round(7.25)", "Math.rnd(7.25)", "round(7.25)", "rnd(7.25)"],
+        "answer": "Math.round(7.25)"
+      },
+      {
+        "question": "Which event occurs when the user clicks on an HTML element?",
+        "options": ["onchange", "onmouseclick", "onmouseover", "onclick"],
+        "answer": "onclick"
+      },
+      {
+        "question": "What is the correct way to write an IF statement in JavaScript?",
+        "options": ["if i = 5 then", "if (i == 5)", "if i == 5 then", "if i = 5"],
+        "answer": "if (i == 5)"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable?",
+        "options": ["*", "-", "=", "x"],
+        "answer": "="
+      },
+      {
+        "question": "What will the following code return: Boolean(10 > 9)?",
+        "options": ["true", "false", "NaN", "undefined"],
+        "answer": "true"
+      }
+    ]
+  }
+  
